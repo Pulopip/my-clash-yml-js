@@ -9,6 +9,8 @@ const prependRule = [
   // /32 表示精确匹配这一个 IP 地址
   "IP-CIDR,43.167.236.124/32,DIRECT,no-resolve",
   "DOMAIN-KEYWORD,topstep,DIRECT",
+  "DOMAIN-KEYWORD,tradeify,DIRECT",
+  "DOMAIN-KEYWORD,lucid,DIRECT",
   // "DOMAIN-SUFFIX,binance.cc,DIRECT",
   // "DOMAIN-SUFFIX,binance.com,DIRECT",
   // "DOMAIN-SUFFIX,binance.me,DIRECT",

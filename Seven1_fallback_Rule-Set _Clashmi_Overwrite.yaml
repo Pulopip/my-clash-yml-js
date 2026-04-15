@@ -178,6 +178,8 @@ rules:
 # 个人配置
   - IP-CIDR,43.167.236.124/32,DIRECT,no-resolve
   - DOMAIN-KEYWORD,topstep,DIRECT
+  - DOMAIN-KEYWORD,tradeify,DIRECT
+  - DOMAIN-KEYWORD,lucid,DIRECT
 
    # 服务分流
   - RULE-SET,private_domain,DIRECT                                      # Private
