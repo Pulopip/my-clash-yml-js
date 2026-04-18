@@ -13,6 +13,7 @@ const prependRule = [
   "DOMAIN-KEYWORD,tradeify,DIRECT",
   "DOMAIN-KEYWORD,lucid,DIRECT",
   "DOMAIN-KEYWORD,rithmic,美国手动",
+  "DOMAIN-KEYWORD,tradovate,美国手动",
   
   // "DOMAIN-SUFFIX,binance.cc,DIRECT",
   // "DOMAIN-SUFFIX,binance.com,DIRECT",

@@ -218,6 +218,7 @@ rules:
   - DOMAIN-KEYWORD,tradeify,DIRECT
   - DOMAIN-KEYWORD,lucid,DIRECT
   - DOMAIN-KEYWORD,rithmic,美国手动
+  - DOMAIN-KEYWORD,tradovate,美国手动
 
    # 服务分流
   - RULE-SET,private_domain,DIRECT                                      # Private
