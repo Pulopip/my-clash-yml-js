@@ -187,9 +187,11 @@ proxy-groups:
 rules:
 # 个人配置
   - IP-CIDR,43.167.236.124/32,DIRECT,no-resolve
+  - IP-CIDR,64.44.141.117/32,美国手动,no-resolve
   - DOMAIN-KEYWORD,topstep,DIRECT
   - DOMAIN-KEYWORD,tradeify,DIRECT
   - DOMAIN-KEYWORD,lucid,DIRECT
+  - DOMAIN-KEYWORD,rithmic,美国手动
 
   - "GEOSITE,private,DIRECT"                                            # Private
   - "GEOIP,private,DIRECT,no-resolve"                                   # Private
